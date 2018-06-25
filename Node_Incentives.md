@@ -1,4 +1,4 @@
-#Providing node incentive
+# Providing node incentive
 
 The purpose of this document is to provide a non technical overview of implementing an incentive system for Nano node representatives. The core premise being that node operators would set a startup flag to provide verification and store alternative genisis forks of the Nano blockchain. These forks would be provided with: 
 
